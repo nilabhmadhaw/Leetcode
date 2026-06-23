@@ -14,6 +14,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0053-maximum-subarray](https://github.com/nilabhmadhaw/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilabhmadhaw/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nilabhmadhaw/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -53,4 +54,8 @@ This repo is part of my learning journey in AI & ML + DSA.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nilabhmadhaw/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilabhmadhaw/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
