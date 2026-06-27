@@ -18,6 +18,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nilabhmadhaw/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -51,6 +52,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0088-merge-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
