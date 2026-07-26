@@ -13,6 +13,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/nilabhmadhaw/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilabhmadhaw/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -32,6 +33,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/nilabhmadhaw/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -41,6 +43,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nilabhmadhaw/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
