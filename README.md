@@ -15,6 +15,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/nilabhmadhaw/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/nilabhmadhaw/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilabhmadhaw/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -32,6 +33,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/nilabhmadhaw/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
