@@ -60,6 +60,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nilabhmadhaw/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0151-reverse-words-in-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/nilabhmadhaw/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +139,5 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
