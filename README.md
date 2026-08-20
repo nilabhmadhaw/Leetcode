@@ -14,6 +14,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0014-longest-common-prefix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0041-first-missing-positive](https://github.com/nilabhmadhaw/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/nilabhmadhaw/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/nilabhmadhaw/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -63,6 +64,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/nilabhmadhaw/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/nilabhmadhaw/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nilabhmadhaw/Leetcode/tree/main/0242-valid-anagram/) | Easy |
