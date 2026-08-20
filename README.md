@@ -26,6 +26,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0238-product-of-array-except-self](https://github.com/nilabhmadhaw/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -101,6 +102,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0125-valid-palindrome](https://github.com/nilabhmadhaw/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
@@ -132,6 +134,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | ------- | ------- |
 | [0136-single-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +160,13 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
