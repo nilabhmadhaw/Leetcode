@@ -35,6 +35,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [1732-find-the-highest-altitude](https://github.com/nilabhmadhaw/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nilabhmadhaw/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nilabhmadhaw/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
