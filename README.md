@@ -27,6 +27,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nilabhmadhaw/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -70,6 +71,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nilabhmadhaw/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
@@ -80,6 +82,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0217-contains-duplicate](https://github.com/nilabhmadhaw/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nilabhmadhaw/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
