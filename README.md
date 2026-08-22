@@ -45,6 +45,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0066-plus-one](https://github.com/nilabhmadhaw/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nilabhmadhaw/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
