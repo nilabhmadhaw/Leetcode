@@ -30,6 +30,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0442-find-all-duplicates-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/nilabhmadhaw/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -165,6 +166,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | ------- | ------- |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/nilabhmadhaw/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
