@@ -41,6 +41,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [1920-build-array-from-permutation](https://github.com/nilabhmadhaw/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nilabhmadhaw/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0442-find-all-duplicates-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nilabhmadhaw/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
