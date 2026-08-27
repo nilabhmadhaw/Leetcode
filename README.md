@@ -126,6 +126,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/nilabhmadhaw/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nilabhmadhaw/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/nilabhmadhaw/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -183,4 +184,12 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nilabhmadhaw/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nilabhmadhaw/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
