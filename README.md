@@ -46,6 +46,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/nilabhmadhaw/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/nilabhmadhaw/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nilabhmadhaw/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -64,6 +65,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nilabhmadhaw/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/nilabhmadhaw/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nilabhmadhaw/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -129,6 +131,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0020-valid-parentheses](https://github.com/nilabhmadhaw/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nilabhmadhaw/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/nilabhmadhaw/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/nilabhmadhaw/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/nilabhmadhaw/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -143,6 +146,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nilabhmadhaw/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
