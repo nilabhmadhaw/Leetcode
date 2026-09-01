@@ -1,13 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int count = 0 ;
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length-1;i+=2){
-            if(nums[i]!=nums[i+1]){
-                count = nums[i];
-                return count;
-            }
+        int single = 0;
+        for(int i=0;i<nums.length;i++){
+           single ^= nums[i];
         }
-        return nums[nums.length-1];
+        return single;
     }
 }
