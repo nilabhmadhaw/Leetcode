@@ -150,6 +150,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0136-single-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0476-number-complement](https://github.com/nilabhmadhaw/Leetcode/tree/main/0476-number-complement/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
