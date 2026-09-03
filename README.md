@@ -43,6 +43,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nilabhmadhaw/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nilabhmadhaw/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nilabhmadhaw/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nilabhmadhaw/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
