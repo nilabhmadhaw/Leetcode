@@ -45,6 +45,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [3875-construct-uniform-parity-array-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nilabhmadhaw/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/nilabhmadhaw/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [1480-running-sum-of-1d-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nilabhmadhaw/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/nilabhmadhaw/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
