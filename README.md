@@ -54,6 +54,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0070-climbing-stairs](https://github.com/nilabhmadhaw/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilabhmadhaw/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nilabhmadhaw/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nilabhmadhaw/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nilabhmadhaw/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -161,6 +162,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [0268-missing-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nilabhmadhaw/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/nilabhmadhaw/Leetcode/tree/main/0476-number-complement/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nilabhmadhaw/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
