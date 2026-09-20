@@ -80,6 +80,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [1920-build-array-from-permutation](https://github.com/nilabhmadhaw/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nilabhmadhaw/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nilabhmadhaw/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ This repo is part of my learning journey in AI & ML + DSA.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nilabhmadhaw/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nilabhmadhaw/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/nilabhmadhaw/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
